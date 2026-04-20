@@ -1,6 +1,6 @@
 # Unemployment Analysis with Python
 
-This project was completed as part of the **CodeAlpha Internship**. The goal is to analyze the unemployment rate in India, focusing on the impact of the COVID-19 pandemic.
+This project was completed as focusing on the impact of the COVID-19 pandemic.
 
 ## 📌 Project Overview
 - **Objective:** Data cleaning, exploration, and visualization of unemployment trends.
